@@ -31,7 +31,7 @@ If you have errors I invite you to ask me for help on discord : 1067138195898236
 
 ## Utilisation
 
-- Mettez votre token dans le fichier config.js.
+- Mettez votre token dans le fichier config.js
 - Une fois cela fait vous êtes prêt à l'usage vous n'avez plus qu'a exécutez cette dernière commande :
 `node main.js`
 
